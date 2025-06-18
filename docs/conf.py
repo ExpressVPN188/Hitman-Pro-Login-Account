@@ -1,4 +1,4 @@
-project = 'HitmanPro TV Login Account'
+project = 'HitmanPro Login Account'
 author = 'Your Name'
 release = '1.0'
 
